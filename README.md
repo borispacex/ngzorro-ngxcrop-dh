@@ -10,7 +10,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## ng zorro
+## Ng zorro for Angular
 Add ng zorro with npm
 ``` bash
 npm i ng-zorro-antd@12.0.2
@@ -20,6 +20,11 @@ add ng-zorro to project
 ng add ng-zorro-antd
 ```
 
+## Image cropper for Angular
+Add ngx-image-cropper
+``` bash
+npm i ngx-image-cropper@7.2.1
+```
 
 ## Build 
 ``` bash
